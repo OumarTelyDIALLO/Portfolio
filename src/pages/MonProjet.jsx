@@ -46,7 +46,6 @@ function MonProjet() {
       titre: "Recueil des besoins (projet académique)",
       description: "Projet axé sur l’analyse, la compréhension et la formalisation des besoins utilisateurs dans le cadre d’un futur développement. Mise en œuvre de techniques de collecte d’informations et de présentation claire des exigences fonctionnelles.",
       technologies: "Microsoft Word, PowerPoint",
-      categorie: "analyse",
       categorie: "bi",
       github: "",
       demo: ""
@@ -56,7 +55,6 @@ function MonProjet() {
       titre: "Création et exploitation d’une base de données (projet académique)",
       description: "Projet centré sur la conception, la mise en place et l’exploitation d’une base de données à partir d’un cas réel. Modélisation, création des tables, insertion et interrogation des données à l’aide de requêtes SQL.",
       technologies: "SQL, MySQL",
-      categorie: "",
       categorie: "data",
       github: "",
       demo: ""

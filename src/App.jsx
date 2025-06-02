@@ -11,7 +11,7 @@ import Contact from './pages/Contact';
 
 function App() {
   return (
-    <Router basename="/mon-portfolio"> {/* ✅ pour GitHub Pages */}
+    <Router basename="/Portfolio"> {/* ✅ pour GitHub Pages */}
       <Navbar />
       <main> {/* ✅ structure flex pour footer collé */}
         <Routes>
